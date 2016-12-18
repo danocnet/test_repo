@@ -453,7 +453,11 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    UNet: 1
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
   cloudProjectId: f4101ccd-7007-40c7-aec5-ffccb2334fc2
   projectName: Github_Test
   organizationId: misao-akama
