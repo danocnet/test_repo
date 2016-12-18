@@ -457,7 +457,7 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 0
+    UNet: 1
   cloudProjectId: f4101ccd-7007-40c7-aec5-ffccb2334fc2
   projectName: Github_Test
   organizationId: misao-akama
